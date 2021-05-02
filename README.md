@@ -1,0 +1,2 @@
+# VeriTipleri
+ VeriTipleri
