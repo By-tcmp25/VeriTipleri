@@ -1,4 +1,4 @@
 # VeriTipleri
  VeriTipleri
  
-<h1 text-still:italic> Merhaba umarım yardımcı olmuştur </h1>
+<h1> Merhaba umarım yardımcı olmuştur </h1>
